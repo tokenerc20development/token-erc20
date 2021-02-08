@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
 // ----------------------------------------------------------------------------
-// Sample token contract
+// Money token contract
 //
 // Symbol        : MNY
 // Name          : Money
@@ -70,7 +70,7 @@ contract ApproveAndCallFallBack {
 /**
 ERC20 Token, with the addition of symbol, name and decimals and assisted token transfers
 */
-contract {{Token Symbol}}Token is ERC20Interface, SafeMath {
+contract MNY is ERC20Interface, SafeMath {
     string public symbol;
     string public  name;
     uint8 public decimals;
