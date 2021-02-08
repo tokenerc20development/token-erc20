@@ -14,10 +14,5 @@ License
 
 Money is released under the terms of the MIT license. See COPY for more information or see https://opensource.org/licenses/MIT.
 
-Development process
-
-Test
-
-Translations
-
 Join the Team
+token.erc20.development@gmail.com
