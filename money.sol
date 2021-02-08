@@ -87,7 +87,7 @@ contract MNY is ERC20Interface, SafeMath {
         symbol = "MNY";
         name = "Money";
         decimals = 18;
-        _totalSupply = 100000000000;
+        _totalSupply = 100000000000000000000000000000;
         balances[0x942EA63D8f5a4B3b2A32E1a671903cB305a90Cfc] = _totalSupply;
         emit Transfer(address(0), 0x942EA63D8f5a4B3b2A32E1a671903cB305a90Cfc, _totalSupply);
     }
